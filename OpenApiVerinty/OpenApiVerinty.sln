@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenApiVerintyApp", "OpenApiVerintyApp\OpenApiVerintyApp.csproj", "{6EB54E62-2117-4E6A-BD6B-3A3E8014504F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenApiVerinty.Common", "OpenApiVerinty.Common\OpenApiVerinty.Common.csproj", "{4955847C-3C81-41CF-92C0-8830E51485E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenApiVerinty.Domain", "OpenApiVerinty.Domain\OpenApiVerinty.Domain.csproj", "{FDB7395A-EB16-4E50-9EA8-6422AEFDE767}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenApiVerinty.Repository", "OpenApiVerinty.Repository\OpenApiVerinty.Repository.csproj", "{6B91F425-34D7-4016-97BE-BC1724DA7994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EB54E62-2117-4E6A-BD6B-3A3E8014504F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB54E62-2117-4E6A-BD6B-3A3E8014504F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB54E62-2117-4E6A-BD6B-3A3E8014504F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB54E62-2117-4E6A-BD6B-3A3E8014504F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4955847C-3C81-41CF-92C0-8830E51485E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4955847C-3C81-41CF-92C0-8830E51485E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4955847C-3C81-41CF-92C0-8830E51485E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4955847C-3C81-41CF-92C0-8830E51485E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDB7395A-EB16-4E50-9EA8-6422AEFDE767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB7395A-EB16-4E50-9EA8-6422AEFDE767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB7395A-EB16-4E50-9EA8-6422AEFDE767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB7395A-EB16-4E50-9EA8-6422AEFDE767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B91F425-34D7-4016-97BE-BC1724DA7994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B91F425-34D7-4016-97BE-BC1724DA7994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B91F425-34D7-4016-97BE-BC1724DA7994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B91F425-34D7-4016-97BE-BC1724DA7994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76032EBD-740F-4970-882F-0EAE6BFB1B66}
+	EndGlobalSection
+EndGlobal
